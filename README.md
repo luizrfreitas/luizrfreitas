@@ -1,12 +1,10 @@
-Olá! Me chamo Luiz Freitas, e bem-vindo ao meu perfil do Github!!!
+##Olá! Seja bem-vindo!
+Me chamo Luiz Freitas, sou desenvolvedor front-end, trabalho com as ferramentas:
 
-Aqui no meu perfil você vai encontrar meu portifólio nas seguintes ferramentas:
+HTML
+CSS
+JavaScript
+Python
+Django
 
-<!-- HTML -->
-/* CSS */
-## Python
-// JavaScript
-## Django
-  
-Para mais informações minhas me encontre no Linkedin: https://www.linkedin.com/in/luiz-rfreitas/
-
+Se quiser me conhecer melhor me encontre no likedin: https://www.linkedin.com/in/luiz-rfreitas/
