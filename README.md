@@ -8,4 +8,5 @@ Tenho conhecimento ainda em ferramentas, como WordPress e Elementor.
 
 Estou aberto a contatos!
 
-Linkedin: https://www.linkedin.com/in/luiz-rfreitas/
+LinkedIn: https://www.linkedin.com/in/luiz-rfreitas/
+Alura: https://cursos.alura.com.br/user/luiz-rfreitas
