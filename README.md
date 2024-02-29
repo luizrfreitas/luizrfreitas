@@ -1,7 +1,7 @@
 ### **Luiz Guilherme R Freitas**
 
 * Backend Developer
-* Brazilian 🇧🇷
+* Brazilian
 * Developer since 2022
 * White Theme Enthusiast
   
